@@ -80,4 +80,4 @@ cloud-ci-cd-project/
 
 ---
 
-Would you like me to **generate a sample screenshot of a CI/CD dashboard** (like a GitHub Actions run or Kubernetes deployment view) so you can include it directly in your README?
+
